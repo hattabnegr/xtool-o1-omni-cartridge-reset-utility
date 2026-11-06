@@ -3,7 +3,7 @@ xtool o1 omni cartridge reset utility coming up!
 
 5x overpriced ink cartridges? No thanks
 
-
+Find the latest version here: https://github.com/interbiznw/xtool-o1-omni-cartridge-reset-utility/releases
 
 https://github.com/user-attachments/assets/a36b91be-9a09-42b5-841c-958fbb5ec2f0
 
